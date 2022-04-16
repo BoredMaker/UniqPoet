@@ -648,6 +648,7 @@ p {
     text-shadow: 0px 0px 20px #ff0800b1 !important;
     font-size: 30px;
     transition: 0.3s ease-in-out;
+    margin: 20px;
 }
 
 .fab:hover {
@@ -856,5 +857,14 @@ p {
     .mt-1 {}
     .footer-link {
         text-align: center;
+    }
+}
+
+
+/*if screen size is small make h1 large*/
+
+@media (max-width: 575px) {
+    h1 {
+        font-size: 4rem !important;
     }
 }
