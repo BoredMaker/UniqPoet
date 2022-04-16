@@ -1,4 +1,4 @@
-let end = Date.now() + (8 * 1000);
+let end = Date.now() + (4 * 1000);
 
 // go Buckeyes!
 var colors = ['#ff0037', '#e3e0ff'];
