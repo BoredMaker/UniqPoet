@@ -867,4 +867,7 @@ p {
     h1 {
         font-size: 4rem !important;
     }
+    .embed-shadow {
+        margin-bottom: 20px;
+    }
 }
